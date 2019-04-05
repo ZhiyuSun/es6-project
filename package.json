@@ -1,0 +1,19 @@
+{
+  "name": "es6-project",
+  "version": "1.0.0",
+  "description": "项目笔记：",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ZhiyuSun/es6-project.git"
+  },
+  "author": "sunzhiyu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ZhiyuSun/es6-project/issues"
+  },
+  "homepage": "https://github.com/ZhiyuSun/es6-project#readme"
+}
